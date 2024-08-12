@@ -35,6 +35,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='Creatorverse_walkthrough.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
+![Video Walkthrough](Creatorverse_walkthrough.mp4)
+
 
 ![Video Walkthrough](https://github.com/sadam456/CreatorVerse/issues/1)
 
