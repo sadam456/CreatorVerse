@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='Walkthrough.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
+<img src='Creatorverse_walkthrough.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
 
 GIF created with LiceCap
 
