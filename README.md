@@ -1,10 +1,10 @@
 # WEB103 Prework - *Creatorverse*
 
-Submitted by: **Gabriel Lucchesi**
+Submitted by: **Rohith Sadam**
 
 About this web app: **React App that supports CRUD operations to store data from creators**
 
-Time spent: **8-10** hours
+Time spent: **24-48** hours
 
 ## Required Features
 
@@ -38,14 +38,9 @@ Here's a walkthrough of implemented required features:
 
 GIF created with LiceCap
 
-
-## Notes
-
-A challenged I faced was using DOTENVs with React. I couldn't create a REACT_APP_PUBLIC_URL environment variable, nor a place to store my database URL and API_KEYs.
-
 ## License
 
-Copyright 2023, Gabriel Lucchesi
+Copyright 2024, Rohith Sadam
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
